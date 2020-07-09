@@ -2,8 +2,8 @@ body {
   background-color: #282928;
   color: #FDFFFF;
   width: 500px;
-  margin-right: auto;
-  margin-left : auto;
+  margin-right: 50%;
+  margin-left : 50%;
 }
 button {
   padding: 5px 20px;
