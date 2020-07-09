@@ -3,8 +3,8 @@ body {
   color: #FDFFFF;
   width: 500px;
   padding-left:50px;
-  margin-right: 50%;
-  margin-left : 50%;
+  margin-right: auto;
+  margin-left : auto;
 }
 button {
   padding: 5px 20px;
